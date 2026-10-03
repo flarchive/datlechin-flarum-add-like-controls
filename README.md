@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of datlechin/flarum-add-like-controls.** Not for installation: use [Packagist](https://packagist.org/packages/datlechin/flarum-add-like-controls) or the [upstream repository](https://github.com/datlechin/flarum-add-like-controls).
 
-**0** versions archived · Latest: [`v1.0.6`](https://github.com/flarchive/datlechin-flarum-add-like-controls/tree/archive/v1.0.6) · License: `MIT` · Flarum: `^1.0.0`
+**7** versions archived · Latest: [`v1.0.6`](https://github.com/flarchive/datlechin-flarum-add-like-controls/tree/archive/v1.0.6) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2021-11-22 | `^1.0.0` | [Browse](https://github.com/flarchive/datlechin-flarum-add-like-controls/tree/archive/v1.0.0) |
+| `v1.0.1` | 2021-11-23 | `^1.0.0` | [Browse](https://github.com/flarchive/datlechin-flarum-add-like-controls/tree/archive/v1.0.1) |
+| `v1.0.2` | 2021-11-24 | `^1.0.0` | [Browse](https://github.com/flarchive/datlechin-flarum-add-like-controls/tree/archive/v1.0.2) |
+| `v1.0.3` | 2021-12-07 | `^1.0.0` | [Browse](https://github.com/flarchive/datlechin-flarum-add-like-controls/tree/archive/v1.0.3) |
+| `v1.0.4` | 2021-12-10 | `^1.0.0` | [Browse](https://github.com/flarchive/datlechin-flarum-add-like-controls/tree/archive/v1.0.4) |
+| `v1.0.5` | 2021-12-16 | `^1.0.0` | [Browse](https://github.com/flarchive/datlechin-flarum-add-like-controls/tree/archive/v1.0.5) |
+| `v1.0.6` | 2021-12-17 | `^1.0.0` | [Browse](https://github.com/flarchive/datlechin-flarum-add-like-controls/tree/archive/v1.0.6) |
 
 Catalog entry: [packages/datlechin-flarum-add-like-controls.json](https://github.com/flarchive/archive-index/blob/main/packages/datlechin-flarum-add-like-controls.json)
 
